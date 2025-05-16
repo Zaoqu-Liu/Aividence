@@ -1,5 +1,10 @@
 # AIvidence
 
+<!-- badges: start -->
+[![Version](https://img.shields.io/badge/Version-1.0.0-yellow)](https://github.com/Zaoqu-Liu/AIvidence/)
+[![License](https://img.shields.io/badge/License-GPL3-red)](https://github.com/Zaoqu-Liu/AIvidence?tab=GPL-3.0-1-ov-file)
+<!-- badges: end -->
+
 Scientific claim validation framework for LLM-generated content.
 
 ## Overview
