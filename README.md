@@ -34,7 +34,7 @@ validator = ClaimValidator(
 
 # Validate a scientific claim
 results = validator.validate_claim(
-    "Overexpression of AOC3 inhibits tumor cell migration and reduces cancer progression"
+    "Overexpression of THBS2 inhibits tumor cell migration and reduces cancer progression"
 )
 
 # Generate a detailed report
