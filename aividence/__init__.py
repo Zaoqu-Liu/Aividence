@@ -1,11 +1,7 @@
 """
-AIvidence: Scientific claim validation for LLM-generated content.
-
-Author: Zaoqu Liu
-Email: liuzaoqu@163.com
-GitHub: https://github.com/Zaoqu-Liu
+AIvidence: A Python package for validating scientific claims against PubMed literature
 """
 
-__version__ = "0.1.0"
+from .validator import ClaimValidator
 
-from aividence.claim_validator import ClaimValidator
+__version__ = '0.1.0'
